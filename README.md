@@ -1,2 +1,8 @@
-# Project-One
-This is a development of Web Apps as my learning progress and showcase
+# 🧠 Project One's Technical Showcase Website
+
+My First Portofolio Project and Personal Documentation.
+
+Built with: Next.js, Tailwind, Contentlayer.
+
+📁 Case studies → `/content/case-studies/*.md`  
+✍️ Blog → `/content/blog/*.md`
